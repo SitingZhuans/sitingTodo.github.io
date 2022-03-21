@@ -29,8 +29,8 @@ header h1 {
 }
 
 body {
-  background: -webkit-gradient(linear, left top, right top, from(#5482ff), to(#64ff86));
-  background: linear-gradient(90deg, #5482ff, #64ff86);
+  background: -webkit-gradient(linear, left top, right top, from(#2057ee), to(#e092c2));
+  background: linear-gradient(90deg, #2057ee, #e092c2);
 }
 
 div.sort {
@@ -45,7 +45,7 @@ div.sort {
 
 div.sort button {
   font-size: 1.5rem;
-  background-color: #009272;
+  background-color: #6b235b;
   border: none;
   color: white;
   padding: 0.5rem;
@@ -92,7 +92,7 @@ form input[type="number"] {
 
 form button {
   cursor: pointer;
-  background-color: #009272;
+  background-color: #6b235b;
   color: white;
 }
 
