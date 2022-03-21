@@ -195,4 +195,22 @@ section div.todo button.trash {
             transform: scale(0);
   }
 }
+
+@media screen and (max-width: 1100px) {
+  form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+  section {
+    width: 100%;
+  }
+  section div.todo {
+    width: 100%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
